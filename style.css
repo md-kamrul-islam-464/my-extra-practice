@@ -1,0 +1,90 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+section {
+    height: 500px;
+    padding: 20px 10px 20px 10px ;
+}
+
+
+
+
+.my-name {
+    color: hsl(337, 79%, 34%);
+}
+
+.link-button {
+    text-decoration: none;
+    padding: 7px 14px;
+    background-image: linear-gradient(rgb(240, 12, 12), rgb(165, 42, 71));
+    border-radius: 3px;
+    color: white;
+
+}
+
+.half-width {
+
+    width: 40%;
+    float: left;
+    margin-left: 10%;
+    padding-top: 5%;
+
+}
+
+.half-width img {
+    width: 70%;
+   
+}
+
+.header-background{
+  background-image: url("header-bg.png");
+  background-repeat: no-repeat;
+  
+}
+
+.biography-background{
+    background-image: url("biography-bg.png");
+    background-repeat: no-repeat;
+}
+
+.latest-work-background{
+    background-image: url("latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+
+.my-latest-work h2{
+    text-align: center;
+    margin-top: 30px;
+    
+}
+
+
+.latest-work img{
+    width: 20%;
+    padding: 2px;
+    margin: 20px 10px 20px 70px;
+ 
+}
+
+.footer-background{
+
+    background-image: url("footer-bg.png");
+    background-repeat: no-repeat;
+}
+
+
+.footer{
+
+    text-align: center;
+    margin-top: 60px;
+}
+
+
+
+
+
+
+
+
